@@ -2,7 +2,7 @@
 
 Author:
     - Kanisorn Sa-nguansook
-    - 
+    - Trying to learn git eieikikimimi
 Student ID:
     - 6288161
     - 
